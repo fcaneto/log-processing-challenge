@@ -1,0 +1,2 @@
+177.126.180.83 - - [15/Aug/2013:00:00:01 -0300] "GET /server_C_entry_1 HTTP/1.1" 200 2148 "-" "userid=user-3"
+177.126.180.83 - - [15/Aug/2013:00:00:02 -0300] "GET /server_C_entry_2 HTTP/1.1" 200 2148 "-" "userid=user-3"
